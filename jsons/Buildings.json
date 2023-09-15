@@ -1,0 +1,23 @@
+[
+	{
+		"name": "Beskar Forge",
+		"replaces": "Ore Refinery",
+		"uniqueTo": "The Mandalorians",
+		"maintenance": 2,
+		"specialistSlots": { "Engineer": 1 },
+		"hurryCostModifier": 25,
+		"percentStatBonus": { "production": 5 },
+		"requiredBuilding": "Mining Tunnels",
+		"uniques": [
+			"All newly-trained [relevant] units [in this city] receive the [Beskar Armor] promotion",
+			"[+1 Gold] from [Gold Ore] tiles [in this city]",
+			"[+1 Production] from [Metallic] tiles [in this city]"
+		],
+		"requiredTech": "Offworld Industries",
+		"civilopediaText": [
+			{
+				"text": "Beskar, the mighty metal unique to the Mandalorians, used to make the finnest armor, resistant to even lightsabers."
+			}
+		]
+	},
+]

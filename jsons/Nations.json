@@ -1,0 +1,246 @@
+[
+     {
+	"name": "The Galactic Republic",
+	"leaderName": "Chancellor Palpatine",
+	"adjective": ["Republican"],
+	"outerColor": [255,255,255],
+	"innerColor": [34,136,214],
+
+/*	"startBias": ["terrains"],
+	"preferredVictoryType": "Victory type",
+	"favoredReligion": "religio",
+
+	"startIntroPart1": "intro",
+	"startIntroPart2": "close",
+
+	"introduction": "Speech?",
+	"declaringWar": "Frase",
+	"attacked": "Frase",
+	"afterPeace": "Frase",
+	"defeated": "Speech",
+
+	"neutralHello": "Greetings",
+	"hateHello": "frase",
+
+	"tradeRequest": "Asking for trade",
+*/
+	"uniqueName": "The Galactic Senate",
+	"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [20] turns.","Resting point for Influence with City-States is increased by [10]","[+1 Happiness] from each Trade Route"],
+
+	"cities": ["Coruscant","city","cities","city"]
+	},
+     {
+	"name": "C.I.S",
+	"leaderName": "Count Douku",
+	"adjective": ["Separatist"],
+	"outerColor": [226,191,120],
+	"innerColor": [81,21,193],
+
+/*	"startBias": ["terrains"],
+	"preferredVictoryType": "Victory type",
+	"favoredReligion": "religio",
+
+	"startIntroPart1": "intro",
+	"startIntroPart2": "close",
+
+	"introduction": "Speech?",
+	"declaringWar": "Frase",
+	"attacked": "Frase",
+	"afterPeace": "Frase",
+	"defeated": "Speech",
+
+	"neutralHello": "Greetings",
+	"hateHello": "frase",
+
+	"tradeRequest": "Asking for trade",
+*/		
+	"uniqueName": "Droid Army",
+	"uniques": ["Damage is ignored when determining unit Strength <for [All] units>","[+1 Gold] from each Trade Route","[20] Unit Supply"],
+
+	"cities": ["Capital","city","cities","city"]
+	},
+     {
+	"name": "The Jedi Order",
+	"leaderName": "Master Yoda",
+	"adjective": ["Jedi"],
+	"outerColor": [255,234,173],
+	"innerColor": [122,91,0],
+
+/*	"startBias": ["terrains"],
+	"preferredVictoryType": "Victory type",
+	"favoredReligion": "religio",
+
+	"startIntroPart1": "intro",
+	"startIntroPart2": "close",
+
+	"introduction": "Speech?",
+	"declaringWar": "Frase",
+	"attacked": "Frase",
+	"afterPeace": "Frase",
+	"defeated": "Speech",
+
+	"neutralHello": "Greetings",
+	"hateHello": "frase",
+
+	"tradeRequest": "Asking for trade",
+*/	
+	"uniqueName": "Keepers of the Peace",
+	"uniques": ["[+1 Faith, +2 Culture] [in all cities] <when not at war>","[Great General] is earned [50]% faster"],
+
+	"cities": ["Ach-To","city","cities","city"]
+	},
+     {
+	"name": "The Sith Empire",
+	"leaderName": "Darth Revan",
+	"adjective": ["Sith"],
+	"outerColor": [186,13,27],
+	"innerColor": [42,6,9],
+
+/*	"startBias": ["terrains"],
+	"preferredVictoryType": "Victory type",
+	"favoredReligion": "religio",
+
+	"startIntroPart1": "intro",
+	"startIntroPart2": "close",
+
+	"introduction": "Speech?",
+	"declaringWar": "Frase",
+	"attacked": "Frase",
+	"afterPeace": "Frase",
+	"defeated": "Speech",
+
+	"neutralHello": "Greetings",
+	"hateHello": "frase",
+
+	"tradeRequest": "Asking for trade",
+*/
+	"uniqueName": "Revenge and Hate",
+	"uniques": ["[+15]% Strength <for [All] units> <when below [3] Happiness>","[+15]% Strength <for [All] units> <vs [Force User] units>"],
+
+	"cities": ["Korriban","city","cities","city"]
+	},
+     {
+	"name": "The Galactic Empire",
+	"leaderName": "Darth Sidious",
+	"adjective": ["Imperial"],
+	"outerColor": [255,255,255],
+	"innerColor": [10,9,10],
+
+/*	"startBias": ["terrains"],
+	"preferredVictoryType": "Victory type",
+	"favoredReligion": "religio",
+
+	"startIntroPart1": "intro",
+	"startIntroPart2": "close",
+
+	"introduction": "Speech?",
+	"declaringWar": "Frase",
+	"attacked": "Frase",
+	"afterPeace": "Frase",
+	"defeated": "Speech",
+
+	"neutralHello": "Greetings",
+	"hateHello": "frase",
+
+	"tradeRequest": "Asking for trade",
+*/
+	"uniqueName": "Order 66",
+	"uniques": ["[+10]% Strength <for [land] units> <vs [Force User] units>", "[+1 Production] from every specialist [in all cities]", "[+1 Science] from every [Strategic resource]"],
+
+	"cities": ["Coruscant","city","cities","city"]
+	},
+     {
+	"name": "Rebel Alliance",
+	"leaderName": "Leia Organa",
+	"adjective": ["Rebel"],
+	"outerColor": [255,250,250],
+	"innerColor": [179,27,27],
+
+/*	"startBias": ["terrains"],
+	"preferredVictoryType": "Victory type",
+	"favoredReligion": "religio",
+
+	"startIntroPart1": "intro",
+	"startIntroPart2": "close",
+
+	"introduction": "Speech?",
+	"declaringWar": "Frase",
+	"attacked": "Frase",
+	"afterPeace": "Frase",
+	"defeated": "Speech",
+
+	"neutralHello": "Greetings",
+	"hateHello": "frase",
+
+	"tradeRequest": "Asking for trade",
+*/	
+	"uniqueName": "Unique Name",
+	"uniques": ["[+1 Food] from all [Culture] buildings"],
+
+	"cities": ["Yavin IV","city","cities","city"]
+	},
+     {
+	"name": "The Mandalorians",
+	"leaderName": "Mandalore The Great",
+	"adjective": ["Mandalorian"],
+	"outerColor": [53,40,31],
+	"innerColor": [247,203,120],
+/*
+	"startBias": ["terrains"],
+	"preferredVictoryType": "Victory type",
+	"favoredReligion": "religio",
+
+	"startIntroPart1": "intro",
+	"startIntroPart2": "close",
+
+	"introduction": "Speech?",
+	"declaringWar": "Frase",
+	"attacked": "Frase",
+	"afterPeace": "Frase",
+	"defeated": "Speech",
+
+	"neutralHello": "Greetings",
+	"hateHello": "frase",
+
+	"tradeRequest": "Asking for trade",
+*/	
+	"uniqueName": "The Way of Mandalore",
+	"uniques": [ "[+20]% Yield from every [Mine] <when at war>",
+			"All newly-trained [relevant] units [in all cities] receive the [This is The Way] promotion",
+				"(Relevant units Ignore Zone of Control)",
+			"[relevant] units gain the [Beskar Armor] promotion <upon constructing [Beskar Forge]> <for units with [Child of Mandalore]>",],
+
+	"cities": ["Mandalore","city","cities","city"]
+	},
+     {
+	"name": "Hutt Clan",
+	"leaderName": "Jabba The Hutt",
+	"adjective": ["Huttesse"],
+	"outerColor": [173,164,0],
+	"innerColor": [182,39,41],
+
+/*	"startBias": ["terrains"],
+	"preferredVictoryType": "Victory type",
+	"favoredReligion": "religio",
+
+	"startIntroPart1": "intro",
+	"startIntroPart2": "close",
+
+	"introduction": "Speech?",
+	"declaringWar": "Frase",
+	"attacked": "Frase",
+	"afterPeace": "Frase",
+	"defeated": "Speech",
+
+	"neutralHello": "Greetings",
+	"hateHello": "frase",
+
+	"tradeRequest": "Asking for trade",
+*/	
+	"uniqueName": "Slave Trade",
+	"uniques": ["[+1 Production] from every [Proxy Office]"],
+
+	"cities": ["Hutta","city","cities","city"]
+	},
+
+]

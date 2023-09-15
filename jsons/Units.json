@@ -1,0 +1,19 @@
+[
+	{ //Mandalorians
+		"name": "Mandalorian",
+		"replaces": "Frontier Militia",
+		"uniqueTo": "The Mandalorians",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 8,
+		"cost": 50,
+		"obsoleteTech": "Next-Gen Armaments",
+		"upgradesTo": "Colony Rifleman",
+		"promotions": ["Child of Mandalore"],
+		"attackSound": "shot",
+		"civilopediaText": [
+			{ "text": "The Mandalorian follows the way of Mandalore by creed. Fiercesome warrior who takes up the legacy of their family to serve the clan." }
+		]
+	},
+
+]

@@ -1,0 +1,20 @@
+[
+
+	{
+		"name": "This is The Way",
+		"uniques": ["Ignores Zone of Control"],
+		"unitTypes": ["Infantry","Stealth Infantry","Sniper","Scout","Rover","Civilian Water","Civilian","Helicopter","Hover"],
+    },
+	{
+		"name": "Child of Mandalore",
+		"uniques": ["May Paradrop up to [3] tiles from inside friendly territory","[+15]% Strength <vs [Land] units>","Mandalorian Warrior"],
+    },
+	{
+		"name": "Beskar Armor",
+		"uniques": ["[+15]% Strength <when defending> <vs [Land] units>"],
+		"unitTypes": ["Infantry","Stealth Infantry","Sniper","Scout"],
+    },
+
+
+
+]
