@@ -145,7 +145,7 @@
 	"tradeRequest": "Asking for trade",
 */
 	"uniqueName": "Order 66",
-	"uniques": ["[+10]% Strength <for [land] units> <vs [Force User] units>", "[+1 Production] from every specialist [in all cities]", "[+1 Science] from every [Strategic resource]"],
+	"uniques": ["[+10]% Strength <for [Land] units> <vs [Force User] units>", "[+1 Production] from every specialist [in all cities]", "[+1 Science] from every [Strategic resource]"],
 
 	"cities": ["Coruscant","city","cities","city"]
 	},
