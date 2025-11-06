@@ -207,7 +207,7 @@
 	"uniqueName": "The Way of Mandalore",
 	"uniques": [ "[+20]% Yield from every [Mine] <when at war>",
 			"All newly-trained [relevant] units [in all cities] receive the [This is The Way] promotion",
-				"Comment[(Relevant units Ignore Zone of Control)]",
+				"Comment [(Relevant units Ignore Zone of Control)]",
 			"[relevant] units gain the [Beskar Armor] promotion <upon constructing [Beskar Forge]> <for units with [Child of Mandalore]>",],
 
 	"cities": ["Mandalore","city","cities","city"]
