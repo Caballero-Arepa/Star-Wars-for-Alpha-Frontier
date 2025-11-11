@@ -25,7 +25,7 @@
 	"tradeRequest": "Asking for trade",
 */
 	"uniqueName": "The Galactic Senate",
-	"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [20] turns.","Resting point for Influence with City-States is increased by [10]","[+1 Happiness] from each Trade Route"],
+	"uniques": ["Can spend Gold to annex or puppet a City-State that has been your Ally for [20] turns","Resting point for Influence with City-States is increased by [10]","[+1 Happiness] from each Trade Route"],
 
 	"cities": ["Coruscant","city","cities","city"]
 	},
@@ -55,7 +55,7 @@
 	"tradeRequest": "Asking for trade",
 */		
 	"uniqueName": "Droid Army",
-	"uniques": ["Damage is ignored when determining unit Strength <for [All] units>","[+1 Gold] from each Trade Route","[20] Unit Supply"],
+	"uniques": ["No damage penalty for wounded units","[+1 Gold] from each Trade Route","[20] Unit Supply"],
 
 	"cities": ["Capital","city","cities","city"]
 	},
@@ -115,7 +115,7 @@
 	"tradeRequest": "Asking for trade",
 */
 	"uniqueName": "Revenge and Hate",
-	"uniques": ["[+15]% Strength <for [All] units> <when below [3] Happiness>","[+15]% Strength <for [All] units> <vs [Force User] units>"],
+	"uniques": ["[+15]% Strength <for [All] units> <when below [3] [Happiness]>","[+15]% Strength <for [All] units> <vs [Force User] units>"],
 
 	"cities": ["Korriban","city","cities","city"]
 	},
@@ -145,7 +145,7 @@
 	"tradeRequest": "Asking for trade",
 */
 	"uniqueName": "Order 66",
-	"uniques": ["[+10]% Strength <for [land] units> <vs [Force User] units>", "[+1 Production] from every specialist [in all cities]", "[+1 Science] from every [Strategic resource]"],
+	"uniques": ["[+10]% Strength <for [Land] units> <vs [Force User] units>", "[+1 Production] from every specialist [in all cities]", "[+1 Science] from every [Strategic resource]"],
 
 	"cities": ["Coruscant","city","cities","city"]
 	},
@@ -207,7 +207,7 @@
 	"uniqueName": "The Way of Mandalore",
 	"uniques": [ "[+20]% Yield from every [Mine] <when at war>",
 			"All newly-trained [relevant] units [in all cities] receive the [This is The Way] promotion",
-				"(Relevant units Ignore Zone of Control)",
+				"Comment [(Relevant units Ignore Zone of Control)]",
 			"[relevant] units gain the [Beskar Armor] promotion <upon constructing [Beskar Forge]> <for units with [Child of Mandalore]>",],
 
 	"cities": ["Mandalore","city","cities","city"]

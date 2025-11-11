@@ -7,7 +7,7 @@
     },
 	{
 		"name": "Child of Mandalore",
-		"uniques": ["May Paradrop up to [3] tiles from inside friendly territory","[+15]% Strength <vs [Land] units>","Mandalorian Warrior"],
+		"uniques": ["May Paradrop to [Land] tiles up to [3] tiles away <in [{Friendly} {Land}] tiles>","[+15]% Strength <vs [Land] units>","Mandalorian Warrior"],
     },
 	{
 		"name": "Beskar Armor",
